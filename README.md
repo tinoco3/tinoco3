@@ -11,10 +11,10 @@
   - Developed an interactive GUI-based Hangman game in Java, focusing on usability and performance.  
   - Optimized game logic for speed and stability through rigorous testing.  
 
-- <b>Smart Detonator: Advanced Bomb Detection Using Machine Learning (C)</b>  
-  - Built a predictive ML model in C to analyze sensor data for improved bomb detection accuracy.  
-  - Leveraged supervised learning to enhance system reliability for security applications.  
-
+- <b>Chicago Sightseeing: Interactive Flutter Mobile App</b> | [GitHub](https://github.com/tinoco3/Chicago-Sightseeing-App)
+  - Developed a cross-platform application showcasing Chicago attractions across three categories using Flutter and Dart.
+  - Implemented custom UI components with circular image cards and interactive state management.
+    
 <h2>🎓 Education</h2>  
 - University of Illinois at Chicago  
    BS in Computer Science  
