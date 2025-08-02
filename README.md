@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Smart Cart: A Remote-Controlled Distance Measuring Vehicle (C++)</b>  
+- <b>Smart Cart: A Remote-Controlled Distance Measuring Vehicle (C++)</b> | [GitHub](https://github.com/tinoco3/Measurement-vehicle/tree/main)  
   - Designed a dual-Arduino system for precise distance measurement using radio waves and Wi-Fi/Bluetooth.  
   - Implemented real-time data transfer and multi-mode functionality via remote control.  
 
