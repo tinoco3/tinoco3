@@ -11,7 +11,7 @@
   - Developed an interactive GUI-based Hangman game in Java, focusing on usability and performance.  
   - Optimized game logic for speed and stability through rigorous testing.  
 
-- <b>Chicago Sightseeing: Interactive Flutter Mobile App</b> | [GitHub](https://github.com/tinoco3/Chicago-Sightseeing-App)
+- <b>Chicago Sightseeing: Interactive Flutter Mobile App (Dart)</b> | [GitHub](https://github.com/tinoco3/Chicago-Sightseeing-App)
   - Developed a cross-platform application showcasing Chicago attractions across three categories using Flutter and Dart.
   - Implemented custom UI components with circular image cards and interactive state management.
     
@@ -46,8 +46,6 @@
 - **Society of Hispanic Professional Engineers (SHPE)**  
   - Active member, contributing to initiatives promoting STEM education and professional development for Hispanics.  
 
-- **Junior Reserve Officers' Training Corps (J.R.O.T.C.)**  
-  - Participated in leadership training, teamwork exercises, and community service during high school.  
 
 <h2>🤝 Connect with me:</h2>
 
