@@ -8,7 +8,52 @@
 <h2>🎓 Education</h2>
 
 ### <img src="https://img.icons8.com/color/48/000000/university.png" width="24"/> University of Illinois at Chicago
-***Bachelor of Science in Computer Science***  
+***Bachelor of Science in Computer Science*** 
+
+-----------------------------------------------
+```python
+import random
+
+class OverlyHonestDeveloper:
+    def __init__(self):
+        self.name = "Marco A Tinoco Sosa"
+        self.claimed_skills = ["Python", "C++", "SQL", "Dart", "F#"] 
+        self.actual_skills = ["Googling", "Stack Overflow surfing", "Debugging by crying"]
+        self.coffee_intake = 0  # Lies
+        self.bug_count = "42 (but only in production)"
+    
+    def introduce(self):
+        print(f"👋 Hi I'm {self.name}!")  
+        print("🚀 Official Skills:", ", ".join(self.claimed_skills))
+        print("😅 Actual Skills:", ", ".join(self.actual_skills))
+        print(f"☕ Coffee consumed today: {self.coffee_intake} cups (add 3 zeros)")
+        print(f"🐛 Bug count in last commit: {self.bug_count}")
+        
+    def code(self):
+        while True:
+            try:
+                print("\n💻 Writing beautiful, clean code...")
+                raise Exception("Unexpected error in line 1 (of 1)")
+            except:
+                print("🤷 Who could have predicted this?")
+                self.coffee_intake += 1
+                if random.random() < 0.01:  # 1% chance it works
+                    print("\n🎉 It works! (Probably shouldn't touch it now)")
+                    print("🚀 Deploying to production before anyone notices")
+                    break
+                elif random.random() < 0.3:
+                    print("💡 Lightbulb moment! (Will forget in 5 minutes)")
+                else:
+                    print("📚 Checking Stack Overflow... again")
+
+# Let's meet our developer
+print("🚀 Initializing Developer Object... (this may take a while)")
+dev = OverlyHonestDeveloper()
+print("\n🔧 Constructor finished (with several hidden memory leaks)")
+dev.introduce()
+print("\nWatch me code (disclaimer: may cause existential dread):")
+dev.code()
+```
 -----------------------------------------------
 
 <h2>👨‍💻 Software Development Projects:</h2>
