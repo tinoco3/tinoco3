@@ -1,12 +1,13 @@
 <h1 align="center">Hi Developers, I'm Marco 👋 !!!</h1> 
 
+
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI5dTB1Z2dhaXA1YzVmMHJnNnN0MGptcTFuaWdtdnc2dndreDJhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
-    alt="Developer GIF" 
-    width="500"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2dTdoMDI5eW1hOGRyc3c0ZjI3czBrdG9uNnhtZG0yY3ZjZ2R6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" 
+    alt="Sunset Coding Session Animation"
+    style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);"
   />
-</p>
+</div>
 
 <h2>🎓 Education</h2>
 
