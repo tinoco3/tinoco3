@@ -41,16 +41,26 @@
 </p>
 
 
-### 🚀 Programming Languages:  
-  - <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" height=20> <b>Intermediate</b>  
-  - <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height=20> <b>Intermediate</b>  
-  - <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height=20> <b>Intermediate</b>  
-  - <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height=20> <b>Intermediate</b>  
-  - <img src="https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=white" height=20> <b>Intermediate</b>  
-  - <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height=20> <b>Intermediate</b>
-  - <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height=20> <b>Intermediate</b>
+### 🚀 Programming Languages: 
 
-    
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" height=20> <b>Intermediate</b>
+
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height=20> <b>Intermediate</b>
+
+
+<img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" height=20> <b>Biggeneer</b>
 
 ### <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24"/> IDE & Development Tools
 <p align="left">
