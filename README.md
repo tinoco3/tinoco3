@@ -1,9 +1,12 @@
 <h1 align="center">Hi Developers, I'm Marco 👋 !!!</h1> 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Full-Stack Developer GIF" width="500"/>
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI5dTB1Z2dhaXA1YzVmMHJnNnN0MGptcTFuaWdtdnc2dndreDJhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
+    alt="Developer GIF" 
+    width="500"
+  />
 </p>
-
 
 <h2>🎓 Education</h2>
 
